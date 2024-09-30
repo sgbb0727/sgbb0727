@@ -2,8 +2,8 @@
 #include <string.h>
 
 int main() {
-    char name[50];  // 이름을 저장할 배열
-    char date[11];  // 날짜를 저장할 배열 (yyyy-mm-dd 형식)
+    short name[50];  // 이름을 저장할 배열
+    short date[11];  // 날짜를 저장할 배열 (yyyy-mm-dd 형식)
 
    
     printf("현재 날짜를 'yyyy-mm-dd' 형식으로 입력하세요: ");
